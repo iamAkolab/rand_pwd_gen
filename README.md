@@ -1,1 +1,1 @@
-# rand_pwd_gen
+# random password generator code
