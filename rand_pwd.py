@@ -11,3 +11,6 @@ n = 0
 while n < 50:
     print(randompassword())
     n = n + 1
+
+#improvements
+#add more complexicity
